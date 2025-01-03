@@ -6,6 +6,8 @@
 
   <h3 align="center">DEMO</h3>
 
+  https://github.com/user-attachments/assets/bc6c5a41-2809-423b-a255-81c64c049d92
+
 
 </div>
 
