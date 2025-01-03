@@ -1,7 +1,7 @@
 <div align="center">
   <h3 align="center">Modern UI/UX website</h3>
   <br />
-      <img src="" alt="Project Banner">
+      <img src="https://github.com/Rotaralexc/brainwave/blob/d83eb17724ec615f929bf7b0623dd722993cfba3/brainwave.png" alt="Project Banner">
   <br />
 
   <h3 align="center">DEMO</h3>
